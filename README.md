@@ -3,7 +3,7 @@
 
 ## Objetivo
 
-> Desenvolva um projeto básico que consiste em um site de uma pequena livraria. As funcionalidades deste site serão mais focadas em um simples CRUD (CREATE, READ, UPDATE, DELETE) de livros, onde é possível cadastrar, listar e remover livros do estoque.
+Desenvolva um projeto básico que consiste em um site de uma pequena livraria. As funcionalidades deste site serão mais focadas em um simples CRUD (CREATE, READ, UPDATE, DELETE) de livros, onde é possível cadastrar, listar e remover livros do estoque.
 
 ## Instruções de pubicação
 
@@ -32,7 +32,7 @@ Na tela de cadastro/edição de livros haverá um formulário para o preenchimen
 - Autor do livro
 - Preço do livro
 
-> Obs: todos os campos deverão ser obrigatórios, e o campo de preço não deverá aceitar letras e nem caracteres especiais.
+Obs: todos os campos deverão ser obrigatórios, e o campo de preço não deverá aceitar letras e nem caracteres especiais.
 
 ### Layout
 O site deve ser inteiramente responsivo, ou seja, deve suportar em dispositivos como smartphones, tablets, e desktop.
@@ -48,9 +48,9 @@ O uso de pré-processadores CSS como SASS ou LESS é opcional.
 O desenvolvimento da API deste projeto deverá ser realizado utilizando a biblioteca json-server,que irá ajudá-lo a desenvolver uma API em JSON rapidamente e sem prévio conhecimento em back-end. Essa biblioteca funciona criando uma API fake com o npm possibilitando criar um CRUD rapidamente e salvando os dados em um arquivo JSON.
 Nos links a seguir há um breve tutorial (em inglês) explicando o modo de instalação e uso da biblioteca.
 
-> Documentação: https://github.com/typicode/json-server#getting-started
+Documentação: https://github.com/typicode/json-server#getting-started
 
-> Video Tutorial: https://www.youtube.com/watch?v=1zkgdLZEdwM
+Video Tutorial: https://www.youtube.com/watch?v=1zkgdLZEdwM
 
 ## Dúvidas
 
