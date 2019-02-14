@@ -1,5 +1,5 @@
 
-# Analista Programador FrontEnd
+# Akna Software - Analista Programador FrontEnd
 
 ## Objetivo
 
