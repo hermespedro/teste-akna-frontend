@@ -106,7 +106,7 @@ export default class BookCrud extends Component {
                             </div>
                         </div>
                         <div>
-                        <i style={{color: '#979779' font-size: 25}} className="fa fa-arrow-down"></i>
+                        <i style={{color: '#979779'}} className="fa fa-arrow-down"></i>
                         </div>
                     </div>
                 </div>
