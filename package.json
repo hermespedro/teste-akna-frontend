@@ -1,0 +1,19 @@
+{
+  "name": "test-frontend",
+  "version": "1.0.0",
+  "description": "Test for frontend developer",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/akna/test-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/akna/test-frontend#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "books": [
+    {
+      "name": "Livro da vida",
+      "authorName": "Autor da vida ",
+      "price": "55.22",
+      "id": 1
+    }
+  ]
+}
