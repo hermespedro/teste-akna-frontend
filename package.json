@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/akna/test-frontend.git"
+    "url": "git+https://hermespedro@bitbucket.org/akna/test-frontend.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/akna/test-frontend#readme",
+  "homepage": "https://hermespedro@bitbucket.org/akna/test-frontend.git#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }
